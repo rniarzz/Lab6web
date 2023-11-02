@@ -69,7 +69,7 @@ Instruksi Praktikum
 
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
-```html
+```css
 /* import google font */
 @import
 url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
@@ -103,7 +103,7 @@ header h1 {
 ## Membuat Navigasi
 ### Kemudian selanjutnya mengatur navigasi.
   
-```html
+```css
 /* navigasi */
 nav {
     display: block;
@@ -136,7 +136,7 @@ nav a:hover {
 </section>
 ```
 
-```html
+```css
 /* Hero Panel */
 #hero {
     background-color: #e4e4e5;
@@ -156,7 +156,7 @@ nav a:hover {
 ## Mengatur Layout Main dan Sidebar
 ### Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
   
-```html
+```css
 /* main content */
 #wrapper {
     margin: 0;
@@ -191,7 +191,7 @@ nav a:hover {
 ```
 ## Kemudian tambahkan CSS.
   
-```html
+```css
 /* widget */
 .widget-box {
     border:1px solid #eee;
@@ -226,7 +226,7 @@ nav a:hover {
 
 ## Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 
-```html
+```css
 /* footer */
 footer {
     clear:both;
@@ -265,7 +265,7 @@ footer {
 ```
 ## Kemudian tambahkan CSS.
 
-```html
+```css
 /* box */
 .box {
     display:block;
