@@ -16,16 +16,18 @@ Instruksi Praktikum
 4. Buat struktur dasar dari dokumen HTML.
 5. Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
+   
 ## Langkah-langkah Praktikum
-* Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
+### Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
+  
 ## Membuat Layout Sederhana
-* Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
+### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
   
   ![Screenshot (319)](https://github.com/rniarzz/Lab6web/assets/115542704/60c44ae3-2ccc-4427-949b-fd3f10deef2a)
   
 ![Screenshot (320)](https://github.com/rniarzz/Lab6web/assets/115542704/44b4ee09-4f07-472c-8e59-939b3e695c3e)
 
-## Buat folder baru dengan nama **lab6_css_framework**,  dan file css dengan nama ```style.css```.
+## Buat folder baru dengan nama **lab6_css_framework**,  dan file css dengan nama **style.css**.
 
 ```html
 <!DOCTYPE html>
@@ -99,7 +101,7 @@ header h1 {
 }
 ```
 ## Membuat Navigasi
-* Kemudian selanjutnya mengatur navigasi.
+### Kemudian selanjutnya mengatur navigasi.
   
 ```html
 /* navigasi */
@@ -121,7 +123,7 @@ nav a:hover {
 }
 ```
 ## Membuat Hero Panel.
-* Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+### Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
   
 ```html
 <section id="hero">
@@ -152,7 +154,7 @@ nav a:hover {
 }
 ```
 ## Mengatur Layout Main dan Sidebar
-## Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+### Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
   
 ```html
 /* main content */
@@ -165,8 +167,8 @@ nav a:hover {
     padding: 20px;
 }
 ```
-### Membuat Sidebar Widget
-## Kemudian selanjutnya menambahkan element lain dalam sidebar.
+## Membuat Sidebar Widget
+### Kemudian selanjutnya menambahkan element lain dalam sidebar.
   
 ```html
  <aside id="sidebar"><div class="widget-box">
@@ -187,8 +189,9 @@ nav a:hover {
         </div>
     </aside>
 ```
-* Kemudian tambahkan CSS.
-```python
+## Kemudian tambahkan CSS.
+  
+```html
 /* widget */
 .widget-box {
     border:1px solid #eee;
@@ -219,9 +222,11 @@ nav a:hover {
     line-height:25px;
 }
 ```
-## Mengatur Footer
-* Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
-```python
+### Mengatur Footer
+
+## Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+
+```html
 /* footer */
 footer {
     clear:both;
@@ -231,7 +236,8 @@ footer {
 }
 ```
 ## Menambahkan Elemen lainnya pada Main Content
-```python
+
+```html
 <section id="main">
         <div class="row">
             <div class="box">
@@ -258,7 +264,8 @@ footer {
         </div>
 ```
 ## Kemudian tambahkan CSS.
-```python
+
+```html
 /* box */
 .box {
     display:block;
@@ -302,8 +309,9 @@ box img {
 }
 ```
 ## Menambahkan Content Artikel
-* Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
-```python
+### Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+```html
 </div>
         <hr class="divider" />
         <article class="entry">
@@ -319,8 +327,9 @@ box img {
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum loremelit, iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla,vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nuncpretium ac.</p>
         </section>
 ```
-* Kemudian tambahkan CSS.
-```python
+## Kemudian tambahkan CSS.
+  
+```html
 .divider {
     border:0;
     border-top:1px solid #eeeeee;
@@ -346,7 +355,11 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 9](foto/1.png)
+
+![Screenshot (319)](https://github.com/rniarzz/Lab6web/assets/115542704/809d6e5b-1d90-41c5-97d8-9390818710ef)
+
+![Screenshot (320)](https://github.com/rniarzz/Lab6web/assets/115542704/f673f87f-59d8-4d04-8cce-1ec8c024d23e)
+
 ## Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab6Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
@@ -354,3 +367,5 @@ box img {
 4. Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
 5. Commit hasilnya pada repository masing-masing.
 6. Kirim URL repository pada e-learning ecampus
+
+<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
