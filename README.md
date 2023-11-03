@@ -18,10 +18,10 @@ Instruksi Praktikum
 6. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
    
 ## Langkah-langkah Praktikum
-### Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
-  
+#### Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
+
 ## Membuat Layout Sederhana
-### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
+#### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
   
 <img width="960" alt="1" src="https://github.com/rniarzz/Lab6web/assets/115542704/ca2048b3-4339-4500-b544-45990c979b3b">
 
@@ -29,7 +29,7 @@ Instruksi Praktikum
 
 <img width="960" alt="3" src="https://github.com/rniarzz/Lab6web/assets/115542704/79ac60ef-477e-49da-a1dd-3be967bc9aa4">
 
-## Buat folder baru dengan nama **lab6_css_framework**,  dan file css dengan nama **style.css**.
+#### Buat folder baru dengan nama `lab6_css_framework`,  dan file css dengan nama `style.css`.
 
 ```html
 <!DOCTYPE html>
