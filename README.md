@@ -25,8 +25,7 @@ Instruksi Praktikum
   
 <img width="960" alt="1" src="https://github.com/rniarzz/Lab6web/assets/115542704/ca2048b3-4339-4500-b544-45990c979b3b">
 
-<img width="960" alt="2" src="https://github.com/rniarzz/Lab6web/assets/115542704/e8a6404c-8ed3-4d93-8532-3621edd2dce0">
-
+<img width="960" alt="2" src="https://github.com/rniarzz/Lab6web/assets/115542704/d2c0d8de-ef9e-4cc9-a63a-603a41b929ff">
 
 <img width="960" alt="3" src="https://github.com/rniarzz/Lab6web/assets/115542704/79ac60ef-477e-49da-a1dd-3be967bc9aa4">
 
