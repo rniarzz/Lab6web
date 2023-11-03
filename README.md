@@ -23,9 +23,11 @@ Instruksi Praktikum
 ## Membuat Layout Sederhana
 ### Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
   
-  ![Screenshot (319)](https://github.com/rniarzz/Lab6web/assets/115542704/60c44ae3-2ccc-4427-949b-fd3f10deef2a)
-  
-![Screenshot (320)](https://github.com/rniarzz/Lab6web/assets/115542704/44b4ee09-4f07-472c-8e59-939b3e695c3e)
+<img width="960" alt="1" src="https://github.com/rniarzz/Lab6web/assets/115542704/ca2048b3-4339-4500-b544-45990c979b3b">
+
+<img width="960" alt="2" src="https://github.com/rniarzz/Lab6web/assets/115542704/fb3fb4e1-b462-4675-9623-c68b444f4941">
+
+<img width="960" alt="3" src="https://github.com/rniarzz/Lab6web/assets/115542704/79ac60ef-477e-49da-a1dd-3be967bc9aa4">
 
 ## Buat folder baru dengan nama **lab6_css_framework**,  dan file css dengan nama **style.css**.
 
